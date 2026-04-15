@@ -8,70 +8,87 @@ An independent and evolving AI reasoning audit system focused on identifying, an
 ________________________________________
 🔹 Case 1: AVL Tree Construction
 🔗 Reference: https://chatgpt.com/share/687df102-0c24-8008-9607-f0d4009eae89
+
 Category: Data Structures
 ________________________________________
 🔹 Case 2: DFS Algorithm
 🔗 Reference: https://chatgpt.com/share/687e29c8-a370-8008-844f-92e572c20521
+
 Category: Graph Algorithms
 ________________________________________
 🔹 Case 3: Dijkstra Algorithm
 🔗 Reference: https://chatgpt.com/share/687e2c2f-2888-8008-9e42-8b4889028271
+
 Category: Graph Algorithms
 ________________________________________
 🔹 Case 4: Cost of Minimum Spanning Tree
 🔗 Reference: https://chatgpt.com/s/t_688125aa60cc8191aaf10565a7bd8cf0
+
 Category: Graph Algorithms
 ________________________________________
 🔹 Case 5: Number of Spanning Trees
 🔗 Reference: https://chatgpt.com/s/t_6881229fb2fc8191abf31f328cc8feb6
+
 Category: Graph Theory
 ________________________________________
 🔹 Case 6: Rank of a Matrix & Row Operations
 🔗 Reference: https://chatgpt.com/share/68ab0830-2884-8008-a203-a5d8b1803da7
+
 Category: Linear Algebra
 ________________________________________
 🔹 Case 7: Function & Extreme Value Theorem
 🔗 Reference: https://chatgpt.com/share/689432b8-2b90-8008-8080-904a76b07263
+
 Category: Calculus
 ________________________________________
 🔹 Case 8: Counting Sort Algorithm
 🔗 Reference: https://chatgpt.com/share/68943407-a3f0-8008-9e82-ef5de44930d2
+
 Category: Algorithms
 ________________________________________
 🔹 Case 9: Sum of Edges in Shortest Paths (Dijkstra)
 🔗 Reference: https://chatgpt.com/share/68a5e08c-6348-8008-8e3d-c62c215130f9
+
 Category: Graph Algorithms
 ________________________________________
 🔹 Case 10: BST Traversal Analysis
 🔗 Reference: https://chatgpt.com/share/68a5e139-6d08-8008-b0e3-6318db646097
+
 Category: Data Structures
 ________________________________________
 🔹 Case 11: Selection Sort Swapping Count
 🔗 Reference: https://chatgpt.com/share/68a5e164-2cac-8008-829c-4cd7d0ecf9ce
+
 Category: Algorithms
 ________________________________________
 🔹 Case 12: Maximum Non-Zero Entries in Matrix
 🔗 Reference: https://chatgpt.com/share/68ece4cd-9a64-8008-b4cc-1ee0fb7a2623
+
 Category: Linear Algebra
 ________________________________________
 🔹 Case 13: Eigenvalue Calculation (3×3 Matrix)
 🔗 Reference: https://chatgpt.com/share/68f078d6-5c80-8008-af39-e76b1431062d
+
 Category: Linear Algebra
 ________________________________________
 🔹 Case 14: Bar Graph Analysis
 🔗 Reference: https://chatgpt.com/share/6927d9a7-2ad0-8008-96c2-517b5bb25284
+
 Category: Data Interpretation
 ________________________________________
 🔹 Case 15: SQL Query – Extraneous Element
 🔗 Reference: https://chatgpt.com/share/6927dbcf-5b2c-8008-a8fa-468e79bd9fd4
+
 Category: Databases
 ________________________________________
 🔹 Case 16: Optimization with Constraints
 🔗 Reference: https://chatgpt.com/share/694ba42d-5dac-8008-a9a7-2da93cd2b236
+
 Category: Optimization
 ________________________________________
 🔹 Case 17: Dijkstra Shortest Path from Node A
 🔗 Reference: https://chatgpt.com/share/69cf5ca0-5dc4-8324-b0b3-b38e40e029eb
+
 Category: Graph Algorithms
 ________________________________________
 🌍 Real-World & Social Impact
