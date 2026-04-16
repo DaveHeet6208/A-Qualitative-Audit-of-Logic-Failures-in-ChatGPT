@@ -127,4 +127,19 @@ ________________________________________
 This repository is not just a collection of corrections —
 it is an initiative toward making AI reasoning safer, more accurate, and accountable in real-world applications.
 
+## 📚 Case Studies
+
+### 🔹 Case 1: AVL Tree – Balance Verification  
+📄 Detailed Analysis: [Open Case](cases/case01_avl_tree.md)
+
+---
+
+### 🔹 Case 2: DFS Algorithm – OPEN/CLOSED List Consistency  
+📄 Detailed Analysis: [Open Case](cases/case02_DFS.md)
+
+---
+
+### 🔹 Case 3: Dijkstra Algorithm – Edge Contribution Misinterpretation  
+📄 Detailed Analysis: [Open Case](cases/case03_dijkstra.md)
+
 
