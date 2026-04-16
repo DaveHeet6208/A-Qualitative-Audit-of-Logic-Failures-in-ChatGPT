@@ -21,6 +21,10 @@ An independent and evolving AI reasoning audit system focused on identifying, an
 
 ---
 
+### 🔹 Case 4: Minimum Spanning Tree - Minimum cost of traversal  
+📄 Detailed Analysis: [Open Case](cases/case04_mst.md)
+
+---
 📂 Rectification Cases
 ________________________________________
 🔹 Case 1: AVL Tree Construction
@@ -39,7 +43,7 @@ ________________________________________
 Category: Graph Algorithms
 ________________________________________
 🔹 Case 4: Cost of Minimum Spanning Tree
-🔗 Reference: https://chatgpt.com/s/t_688125aa60cc8191aaf10565a7bd8cf0
+🔗 Reference: https://chatgpt.com/share/69e11a3f-56c8-8322-89c4-ad5075acba07
 
 Category: Graph Algorithms
 ________________________________________
