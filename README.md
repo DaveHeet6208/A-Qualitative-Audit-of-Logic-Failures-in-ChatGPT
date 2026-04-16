@@ -108,6 +108,11 @@ ________________________________________
 
 Category: Graph Algorithms
 ________________________________________
+🔹 Case 18: Dijkstra Shortest Path, Graph Analysis
+🔗 Reference: https://chatgpt.com/share/69e10e7f-7808-8322-bf59-418554e1df76
+Category: Graph Algorithms
+________________________________________
+
 🌍 Real-World & Social Impact
 AI systems are increasingly used in education, engineering, finance, healthcare, and decision-making systems.
 Conceptual errors in foundational topics like algorithms, mathematics, and logic can lead to serious real-world consequences.
