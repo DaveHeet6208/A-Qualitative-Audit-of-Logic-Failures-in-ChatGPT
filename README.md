@@ -78,8 +78,7 @@ ________________________________________
 Category: Graph Algorithms
 ________________________________________
 🔹 Case 5: Number of Spanning Trees
-🔗 Reference: https://chatgpt.com/s/t_6881229fb2fc8191abf31f328cc8feb6
-
+🔗 Reference: https://chatgpt.com/share/69e1df38-2adc-83a5-8b31-ce94d5589ad3
 Category: Graph Theory
 ________________________________________
 🔹 Case 6: Rank of a Matrix & Row Operations
