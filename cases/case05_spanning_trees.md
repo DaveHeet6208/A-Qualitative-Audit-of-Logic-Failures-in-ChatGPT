@@ -168,7 +168,7 @@ Such errors can lead to:
 
 ## 🔗 Reference Discussion
 
-https://chatgpt.com/s/t_6881229fb2fc8191abf31f328cc8feb6
+https://chatgpt.com/share/69e1df38-2adc-83a5-8b31-ce94d5589ad3
 
 ---
 
