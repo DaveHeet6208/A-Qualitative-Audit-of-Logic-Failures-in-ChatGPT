@@ -55,6 +55,18 @@ To contribute toward improving reliability and interpretability of AI-generated 
 📄 Detailed Analysis: [Open Case](cases/case04_mst.md)
 
 ---
+
+### 🔹 Case 5:  Spanning Trees 
+📄 Detailed Analysis: [Open Case](cases/case05_spanning_trees.md)
+
+---
+
+### 🔹 Case 6: Matrix Rank prediction  
+📄 Detailed Analysis: [Open Case](cases/case06_matrix_rank.md)
+
+---
+
+
 ## 📂 Rectification Cases
 ________________________________________
 🔹 Case 1: AVL Tree Construction
