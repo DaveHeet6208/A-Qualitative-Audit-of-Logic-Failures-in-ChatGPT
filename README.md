@@ -66,6 +66,12 @@ To contribute toward improving reliability and interpretability of AI-generated 
 
 ---
 
+### 🔹 Case 7: Extreme Value Theorem  
+📄 Detailed Analysis: [Open Case](cases/case07_extreme_value_theorem.md)
+
+---
+
+
 
 ## 📂 Rectification Cases
 ________________________________________
