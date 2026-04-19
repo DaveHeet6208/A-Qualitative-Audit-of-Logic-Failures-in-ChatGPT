@@ -81,6 +81,11 @@ To contribute toward improving reliability and interpretability of AI-generated 
 
 ---
 
+### 🔹 Case 10: Selection Sort
+📄 Detailed Analysis: [Open Case](cases/case10_Selection_sort.md)
+
+---
+
 
 
 ## 📂 Rectification Cases
