@@ -5,7 +5,9 @@ Data Structures (BST, Level-Order Traversal)
 
 ---
 
-## 📝 Problem Statement
+## 📝 Original Question
+
+![BST Question](../images/case09_BST_Level_ord_trav.png)
 
 A partial level-order traversal of a Binary Search Tree (BST) is given:
 
