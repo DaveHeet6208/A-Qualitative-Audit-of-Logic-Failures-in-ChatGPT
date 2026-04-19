@@ -107,7 +107,7 @@ Since shortest paths form a **tree (SPT)**:
 So:
 
 ```
-Final = 140 − 20 = 120
+Final = 140 − 20 = 120, thenafter, adding the edge weight CD, as ACD is also one of the 2 equal shortest paths from A to D, we get the final answer as 130...
 ```
 
 ---
@@ -115,7 +115,7 @@ Final = 140 − 20 = 120
 ## ✅ Final Answer
 
 ```text
-120
+130
 ```
 
 ---
@@ -152,8 +152,7 @@ Such misinterpretations can lead to:
 
 ## 🔗 Reference Discussion
 
-https://chatgpt.com/share/687e2c2f-2888-8008-9e42-8b4889028271
-
+https://chatgpt.com/share/68a5e08c-6348-8008-8e3d-c62c215130f9
 ---
 
 ## 🏁 Status
