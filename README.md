@@ -71,6 +71,16 @@ To contribute toward improving reliability and interpretability of AI-generated 
 
 ---
 
+### 🔹 Case 8: Counting Sort
+📄 Detailed Analysis: [Open Case](cases/case08_counting_sort.md)
+
+---
+
+### 🔹 Case 9: BST_Level Order Traversal
+📄 Detailed Analysis: [Open Case](cases/case09_BST_Level_rd_trav.md)
+
+---
+
 
 
 ## 📂 Rectification Cases
