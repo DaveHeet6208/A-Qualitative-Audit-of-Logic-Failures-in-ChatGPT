@@ -96,8 +96,7 @@ ________________________________________
 Category: Graph Algorithms
 ________________________________________
 🔹 Case 3: Dijkstra Algorithm
-🔗 Reference: https://chatgpt.com/share/687e2c2f-2888-8008-9e42-8b4889028271
-
+🔗 Reference: https://chatgpt.com/share/68a5e08c-6348-8008-8e3d-c62c215130f9
 Category: Graph Algorithms
 ________________________________________
 🔹 Case 4: Cost of Minimum Spanning Tree
@@ -124,52 +123,47 @@ ________________________________________
 
 Category: Algorithms
 ________________________________________
-🔹 Case 9: Sum of Edges in Shortest Paths (Dijkstra)
-🔗 Reference: https://chatgpt.com/share/68a5e08c-6348-8008-8e3d-c62c215130f9
-
-Category: Graph Algorithms
-________________________________________
-🔹 Case 10: BST Traversal Analysis
+🔹 Case 9: BST Traversal Analysis
 🔗 Reference: https://chatgpt.com/share/68a5e139-6d08-8008-b0e3-6318db646097
 
 Category: Data Structures
 ________________________________________
-🔹 Case 11: Selection Sort Swapping Count
+🔹 Case 10: Selection Sort Swapping Count
 🔗 Reference: https://chatgpt.com/share/68a5e164-2cac-8008-829c-4cd7d0ecf9ce
 
 Category: Algorithms
 ________________________________________
-🔹 Case 12: Maximum Non-Zero Entries in Matrix
+🔹 Case 11: Maximum Non-Zero Entries in Matrix
 🔗 Reference: https://chatgpt.com/share/68ece4cd-9a64-8008-b4cc-1ee0fb7a2623
 
 Category: Linear Algebra
 ________________________________________
-🔹 Case 13: Eigenvalue Calculation (3×3 Matrix)
+🔹 Case 12: Eigenvalue Calculation (3×3 Matrix)
 🔗 Reference: https://chatgpt.com/share/68f078d6-5c80-8008-af39-e76b1431062d
 
 Category: Linear Algebra
 ________________________________________
-🔹 Case 14: Bar Graph Analysis
+🔹 Case 13: Bar Graph Analysis
 🔗 Reference: https://chatgpt.com/share/6927d9a7-2ad0-8008-96c2-517b5bb25284
 
 Category: Data Interpretation
 ________________________________________
-🔹 Case 15: SQL Query – Extraneous Element
+🔹 Case 14: SQL Query – Extraneous Element
 🔗 Reference: https://chatgpt.com/share/6927dbcf-5b2c-8008-a8fa-468e79bd9fd4
 
 Category: Databases
 ________________________________________
-🔹 Case 16: Optimization with Constraints
+🔹 Case 15: Optimization with Constraints
 🔗 Reference: https://chatgpt.com/share/694ba42d-5dac-8008-a9a7-2da93cd2b236
 
 Category: Optimization
 ________________________________________
-🔹 Case 17: Dijkstra Shortest Path from Node A
+🔹 Case 16: Dijkstra Shortest Path from Node A
 🔗 Reference: https://chatgpt.com/share/69cf5ca0-5dc4-8324-b0b3-b38e40e029eb
 
 Category: Graph Algorithms
 ________________________________________
-🔹 Case 18: Dijkstra Shortest Path, Graph Analysis
+🔹 Case 17: Dijkstra Shortest Path, Graph Analysis
 🔗 Reference: https://chatgpt.com/share/69e10e7f-7808-8322-bf59-418554e1df76
 Category: Graph Algorithms
 ________________________________________
