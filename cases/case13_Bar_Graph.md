@@ -4,7 +4,7 @@ Data Interpretation
 ________________________________________  
 
 📷 Original Question  
-![Bar Graph Question](../images/case13_bargraph.png)  
+![Bar Graph Question](../images/case13_Bar_Graph.png)  
 ________________________________________  
 
 ❌ Incorrect AI Reasoning  
